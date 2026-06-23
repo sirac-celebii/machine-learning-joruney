@@ -24,5 +24,5 @@
 - Hyperparameter optimizasyonu ile iyileştirilmiş model performansı
 
 ## 📂 Veri Seti
--Uçak bileti fiyat tahmini veri seti:
+- Uçak bileti fiyat tahmini veri seti:
 👉 https://www.kaggle.com/datasets/shubhammehta21/flight-price-predictio
