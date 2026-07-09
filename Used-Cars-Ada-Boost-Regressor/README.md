@@ -50,5 +50,5 @@
 
 # 📂 Veri Seti
 
-* Kaggle Used Cars Dataset 👉 https://www.kaggle.com/datasets/sukritchatterjee/used-cars-dataset-cardekho
+* Kaggle Used Cars Dataset 👉 https://www.kaggle.com/datasets/manishkr1754/cardekho-used-car-data
 
